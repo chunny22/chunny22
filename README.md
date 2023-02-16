@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/justin-chun">
+  <a href="https://www.linkedin.com/in/justin-chun/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=justin-chun">
   </a>
 </p>

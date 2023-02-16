@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Justin! 👋 </h1>
+
+<p align="center">
+  Computer Science student @ University of Ottawa
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[your-linkedin-url]">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[your-linkedin-url]">
+  </a>
+</p>
 
 <!--
 **chunny22/chunny22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

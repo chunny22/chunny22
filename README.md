@@ -6,7 +6,7 @@
 
 - I have been working with: ![badge](https://img.shields.io/badge/Python-4B8BBE) ![badge](https://img.shields.io/badge/Java-f89820) ![badge](https://img.shields.io/badge/TypeScript-JavaScript-f0db4f) ![badge](https://img.shields.io/badge/Node.js-3c873a) ![badge](https://img.shields.io/badge/React-Angular-dd1b16) ![badge](https://img.shields.io/badge/Linux-ffcc33)
 
-<h1>Experiences</h1>
+<h2>Experiences</h2>
 
 - **Royal Bank of Canada** - Quality Engineering Analyst (Toronto, Summer 2023)
 - **Mitel Networks** - Product Software Developer (Ottawa, Fall 2022)

@@ -1,26 +1,21 @@
-<h1 align="center">Hi there, I'm Justin! 👋 </h1>
+<h1 align="center">Hi there, I'm Justin, AKA Ho Joon! 👋 </h1>
 
-<p align="center">
-  New Grad Computer Science student @ University of Ottawa
-</p>
+<h2>About me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/justin-chun/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=justin-chun">
-  </a>
-</p>
+- I am a recently graduated student from University of Ottawa, with **Honours Specialization in Computer Science**.
 
-<!--
-**chunny22/chunny22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I have been working with: ![badge](https://img.shields.io/badge/Python-4B8BBE) ![badge](https://img.shields.io/badge/Java-f89820) ![badge](https://img.shields.io/badge/TypeScript-JavaScript-f0db4f) ![badge](https://img.shields.io/badge/Node.js-3c873a) ![badge](https://img.shields.io/badge/React-Angular-dd1b16) ![badge](https://img.shields.io/badge/Linux-ffcc33)
 
-Here are some ideas to get you started:
+<h1>Experiences</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Royal Bank of Canada** - Quality Engineering Analyst (Toronto, Summer 2023)
+- **Mitel Networks** - Product Software Developer (Ottawa, Fall 2022)
+- **March Networks** - Software Developer (Ottawa, Winter 2022)
+- **Canadian Food Inspection Agency** - Business Intelligence Developer (Ottawa, Summer 2021)
+
+<h2>Contact Me</h2>
+
+[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chunny0501@gmail.com)
+<a href="https://www.linkedin.com/in/justin-chun/" target="_blank">
+  <img height="28" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>

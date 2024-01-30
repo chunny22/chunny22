@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Justin, AKA Ho Joon! 👋 </h1>
+<h1 align="center">Hi there, I'm Ho Joon, AKA Justin! 👋 </h1>
 
 <h2>About me</h2>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Justin! 👋 </h1>
 
 <p align="center">
-  Computer Science student @ University of Ottawa
+  New Grad Computer Science student @ University of Ottawa
 </p>
 
 <p align="center">
